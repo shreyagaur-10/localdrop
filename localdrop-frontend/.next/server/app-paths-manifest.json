@@ -1,0 +1,7 @@
+{
+  "/(auth)/login/page": "app/(auth)/login/page.js",
+  "/(dashboard)/business/redeem/page": "app/(dashboard)/business/redeem/page.js",
+  "/(dashboard)/business/settings/page": "app/(dashboard)/business/settings/page.js",
+  "/(dashboard)/creator/settings/page": "app/(dashboard)/creator/settings/page.js",
+  "/(dashboard)/creator/page": "app/(dashboard)/creator/page.js"
+}

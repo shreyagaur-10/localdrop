@@ -1,0 +1,21 @@
+{
+  "..\\node_modules\\next\\dist\\client\\dev\\hot-reloader\\app\\use-websocket.js -> @vercel/turbopack-ecmascript-runtime/browser/dev/hmr-client/hmr-client.ts": {
+    "id": "..\\node_modules\\next\\dist\\client\\dev\\hot-reloader\\app\\use-websocket.js -> @vercel/turbopack-ecmascript-runtime/browser/dev/hmr-client/hmr-client.ts",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_next_dist_client_dev_noop-turbopack-hmr_js.js"
+    ]
+  },
+  "components\\dashboard\\charts.tsx -> ./LeafletHeatmap": {
+    "id": "components\\dashboard\\charts.tsx -> ./LeafletHeatmap",
+    "files": [
+      "static/css/_app-pages-browser_src_components_dashboard_LeafletHeatmap_tsx.css",
+      "static/chunks/_app-pages-browser_src_components_dashboard_LeafletHeatmap_tsx.js"
+    ]
+  },
+  "components\\providers.tsx -> @/components/dashboard/ai-assistant": {
+    "id": "components\\providers.tsx -> @/components/dashboard/ai-assistant",
+    "files": [
+      "static/chunks/_app-pages-browser_src_components_dashboard_ai-assistant_tsx.js"
+    ]
+  }
+}
