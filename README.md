@@ -98,7 +98,7 @@ This runs the entire stack—Database, Backend, and Frontend—with database mig
     DB_PORT=5432
     DB_NAME=localdrop
     DB_USER=postgres
-    DB_PASSWORD=your_postgres_password
+    DB_PASSWORD=yourpostgrespassword
     JWT_ACCESS_SECRET=your_jwt_access_secret
     JWT_REFRESH_SECRET=your_jwt_refresh_secret
     QR_HMAC_SECRET=your_qr_hmac_secret
